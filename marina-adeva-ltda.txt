@@ -1,4 +1,3 @@
-
 Serviços
 	Garagem > Vagas cobertas / Vagas descobertas
 	Lavagem da embarcação > semanal / mensal
@@ -20,27 +19,3 @@ Perfis
 		Acesso a página de status das embarcações elegíveis a pintura > atualização do status das pinturas.
 	Assistente administrativo
 		Acesso a página de status de locação de coletes sava-vidas e churrasqueiras.
-
-
-Serviços
-	Garagem > Vagas cobertas / Vagas descobertas
-	Lavagem da embarcação > semanal / mensal
-	Abastecimento de Combustível
-	Coletes salva-vidas
-	Pintura
-	Reparos 
-	Churrasqueiras > Gold / Silver
-
-Perfis
-	Administrador
-		acesso a todos os módulos > adição, exclusão e manutenção.
-	Clientes
-		Sem logar = acesso a home, as páginas de apresentação dos produtos/serviços e ao formulário de cadastro;
-		Logado = Acesso a página de status dos produtos/serviços contratados e aquisição de novos produtos/serviços.
-	Mecânico
-		Acesso a página de status das embarcações elegíveis a manutenção > atualização do status dos reparos.
-	Pintor
-		Acesso a página de status das embarcações elegíveis a pintura > atualização do status das pinturas.
-	Assistente administrativo
-		Acesso a página de status de locação de coletes sava-vidas e churrasqueiras.
-    
