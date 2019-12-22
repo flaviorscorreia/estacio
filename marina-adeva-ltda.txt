@@ -1,40 +1,46 @@
-<!DOCTYPE html>
-<html lang="pt-br"> 
-  <head>
-        <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-        <link rel="stylesheet" href="css/bootstrap.min.css" />
-<link rel="stylesheet" href="css/style.css" />
-    <title>Modelo base</title>
-  </head>
-  <body>
-´<header class="container">
-<div class="row">
-<div class="col-4">
-<nav>
-<ul class="list-unstyled">
-<li>
-<a href="index.html">Home</a>
-</li>
-/ul>
-</nav>
-</div>
-<div class="col-8">
-<h1 class="display-1">Modelo</h1>
+Serviços
+	Garagem > Vagas cobertas / Vagas descobertas
+	Lavagem da embarcação > semanal / mensal
+	Abastecimento de Combustível
+	Coletes salva-vidas
+	Pintura
+	Reparos 
+	Churrasqueiras > Gold / Silver
 
-</div>
-</div>
+Perfis
+	Administrador
+		acesso a todos os módulos > adição, exclusão e manutenção.
+	Clientes
+		Sem logar = acesso a home, as páginas de apresentação dos produtos/serviços e ao formulário de cadastro;
+		Logado = Acesso a página de status dos produtos/serviços contratados e aquisição de novos produtos/serviços.
+	Mecânico
+		Acesso a página de status das embarcações elegíveis a manutenção > atualização do status dos reparos.
+	Pintor
+		Acesso a página de status das embarcações elegíveis a pintura > atualização do status das pinturas.
+	Assistente administrativo
+		Acesso a página de status de locação de coletes sava-vidas e churrasqueiras.
 
 
+Serviços
+	Garagem > Vagas cobertas / Vagas descobertas
+	Lavagem da embarcação > semanal / mensal
+	Abastecimento de Combustível
+	Coletes salva-vidas
+	Pintura
+	Reparos 
+	Churrasqueiras > Gold / Silver
 
-</header>
-
-
+Perfis
+	Administrador
+		acesso a todos os módulos > adição, exclusão e manutenção.
+	Clientes
+		Sem logar = acesso a home, as páginas de apresentação dos produtos/serviços e ao formulário de cadastro;
+		Logado = Acesso a página de status dos produtos/serviços contratados e aquisição de novos produtos/serviços.
+	Mecânico
+		Acesso a página de status das embarcações elegíveis a manutenção > atualização do status dos reparos.
+	Pintor
+		Acesso a página de status das embarcações elegíveis a pintura > atualização do status das pinturas.
+	Assistente administrativo
+		Acesso a página de status de locação de coletes sava-vidas e churrasqueiras.
     
-<!-- arquivos js importantes -->
-    <script src="js/jquery-3.4.1.js" ></script>
-    <script src="js/bootstrap.bundle.min.js" ></script>
-        <script src="js/functions.js" ></script>
-  </body>
-</html>
